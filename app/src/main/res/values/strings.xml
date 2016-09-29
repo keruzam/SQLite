@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SQLite</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="options_exit_text">Wyjdź</string>
 </resources>
