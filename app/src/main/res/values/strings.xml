@@ -2,4 +2,7 @@
     <string name="app_name">SQLite</string>
     <string name="action_settings">Ustawienia</string>
     <string name="options_exit_text">Wyjdź</string>
+    <string name="model_text_view">Model</string>
+    <string name="calling_activity_message">Calling from: </string>
+    <string name="save_car">Enter</string>
 </resources>

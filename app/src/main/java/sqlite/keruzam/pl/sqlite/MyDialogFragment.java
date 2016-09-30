@@ -1,16 +1,21 @@
 package sqlite.keruzam.pl.sqlite;
 
+import android.annotation.TargetApi;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.DialogInterface;
+import android.os.Build;
 import android.os.Bundle;
 import android.widget.Toast;
 
 /**
  * Created by fuks on 2016-09-29.
+ *
+ * Dialog window
  */
 
+@TargetApi(Build.VERSION_CODES.HONEYCOMB)
 public class MyDialogFragment extends DialogFragment {
 
     @Override
